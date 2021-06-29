@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BilginistAdam.
 - 👀 I’m interested in Embedded Systems.
-- 🌱 I’m currently learning python OpenCV and qt framework also every day I’m learning new knowledge about the ARM-based MCU.
+- 🌱 I’m currently learning python OpenCV and Qt framework also every day I’m learning new knowledge about the ARM-based MCU.
 - 💞️ I’m looking to collaborate on Embedded Systems Engineering.
 - 📫 How to reach me bilginenesismail@gmail.com
 
