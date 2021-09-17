@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismail Enes BILGIN (@BilginistAdam) .
 - 👀 I’m interested in Embedded Systems.
 - 🌱 I’m currently learning python OpenCV and Qt frameworks also every day I’m learning new knowledge about the ARM-based MCU.
-- 💞️ I’m looking to collaborate on Embedded Systems Engineering. Alsoi I am working freelance, more info at www.bilginier.com.
+- 💞️ I’m looking to collaborate on Embedded Systems Engineering. Also, I am working freelance, more info at www.bilginier.com.
 - 📫 How to reach me bilginenesismail@gmail.com.
 - 📫 Also, i.enesbilgin@bilginier.com.
